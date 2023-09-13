@@ -1,0 +1,19 @@
+{
+  "name": "@dro-psypra/common",
+  "version": "0.0.1",
+  "description": "Common functionality for dro-psypra project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shatynska/dro-psypra-common-npm.git"
+  },
+  "author": "Helen Shatynska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shatynska/dro-psypra-common-npm/issues"
+  },
+  "homepage": "https://github.com/shatynska/dro-psypra-common-npm#readme"
+}
