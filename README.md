@@ -1,0 +1,1 @@
+# dro-psypra-common-npm
